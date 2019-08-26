@@ -1,0 +1,38 @@
+# Site settings
+title: YOURSF.KR
+tagline: 당신 인생의 SF 이야기
+description: "당신 인생에 SF가 함께 할 수 있도록 SF 세계로 들어가는 친절한 안내서"
+url: "https://yoursf.kr"
+author:
+  name: "yoursf"
+  email: "yoursfkr@gmail.com"
+  url: "https://yoursf.kr"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
