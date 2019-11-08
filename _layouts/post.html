@@ -15,10 +15,8 @@ layout: default
 	</div>
 </article>
 <script type="text/javascript">
-	document.getElementByTagName('title')=fbViewContent();
-	fbViewContent(){
-  	fbq('track', 'ViewContent', {
-    	content_ids: 'title',
-  	});
-  }
+	var contentTitle = document.title ;
+	fbq('track', 'ViewContent', {
+  	content_ids: contentTitle,
+  });
 </script>
