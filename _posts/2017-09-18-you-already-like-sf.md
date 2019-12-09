@@ -25,7 +25,7 @@ tags:
   - 타임머신
   - 화성
 description: SF라고 하면 어쩐지 어렵다고들 하는데 그렇지 않다. SF는 생각보다 다양한 스펙트럼을 가지고 있으며, 쉽게 즐길 수 있는 장르이며 하나의 문화코드이다. 그러니까 몇 가지 아주 사소한 조건 중 한 두 가지만 만족시킨다면 당신은 이미 sf를 좋아하고 있다.
-content_id : you-already-like-sf
+content_id : "you-already-like-sf"
 ---
 
 ## 당신은 이미 SF를 좋아하고 있다.

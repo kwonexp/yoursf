@@ -24,7 +24,7 @@ tags:
   - avengers
   - 스파이더맨
 description: 누군가 "어벤져스는 SF인가요?"라고 묻는다면 어떻게 답해야 할까? 여러 가지 캐릭터와 작품이 뒤섞여 있는 어벤져스가 SF인지 따져보려면 어벤져스를 구성하고 있는 다양한 캐릭터와 배경에 대해서 따져보면 될까? 아이언맨은 SF인가? 캡틴 아메리카는 SF인가? 토르는? 앤트맨은? 닥터 스트레인지는? 그런데 그 이전에 대체 SF란 무엇일까?
-content_id : avengers-is-sf
+content_id : "avengers-is-sf"
 ---
 
 **I am Ironman.**
